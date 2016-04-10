@@ -6,9 +6,6 @@ nRF24L01 multi-protocol RC transmitter
 - verified with FrSky X9D plus and JJ1000 Quadcoper
 
 
-![Screenshot](https://goo.gl/photos/UtWJbYW8htC2ofPi6)
-![Screenshot](https://goo.gl/photos/H9v1hZqS8M4iSNtUA)
-
 =========================================================================
 
 ![Screenshot](http://i.imgur.com/AeMJKzT.jpg)
