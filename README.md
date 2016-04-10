@@ -1,6 +1,17 @@
 # nrf24-multipro
 nRF24L01 multi-protocol RC transmitter
 
+- source code from this project:https://github.com/goebish/nrf24_multipro
+- porting it to Arduino Leonardo
+- verified with FrSky X9D plus and JJ1000 Quadcoper
+
+
+
+![Screenshot]()
+![Screenshot]()
+
+=========================================================================
+
 ![Screenshot](http://i.imgur.com/AeMJKzT.jpg)
 
 Create a model in OpenTX using external module in PPM mode, 12 channels and TAER sequence order.
